@@ -1,0 +1,11 @@
+---
+
+const { post } = Astro.props;
+
+const { url, frontmatter } = post
+
+---
+
+<li>
+  <a href={url}>{frontmatter.title}</a>
+</li>
