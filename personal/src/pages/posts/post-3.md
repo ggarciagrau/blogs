@@ -11,6 +11,7 @@ tags: ["no-0-days"]
 
 ### Work
 - Continued C++ course.
+- Started with Clean Code blog.
 
 ### Apprenticeships
 - C++
@@ -19,3 +20,4 @@ tags: ["no-0-days"]
 
 ### To review / make
 - Reuse code from one own source file in C++.
+- Improve Astro blogs UI.
